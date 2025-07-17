@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/10/17 17:37:21.000.069,=C:\Users\Diogenes\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/10/22 17:40:27.000.868,=C:\Users\Diogenes\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/11/06 10:59:44.000.606,=C:\Users\Diogenes\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/11/26 22:25:40.000.015,=C:\Users\Diogenes\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/04/15 15:44:38.000.503,=C:\Users\Administrador\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/11/08 17:07:49.000.416,=C:\Users\Administrador\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/03/27 03:43:06.000.512,=C:\Users\Administrador\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/04/01 10:44:12.000.195,=C:\Users\Diogenes\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/10/11 14:34:22.000.848,=C:\Users\Diogenes\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/15 07:53:00.000.831,=C:\Users\Diogenes\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/15 07:57:41.294,=C:\Users\Diogenes\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/15 07:58:53.423,C:\Users\Diogenes\Documents\blog masterdelphi\Threads\Unit1.dfm=C:\Users\Diogenes\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2025/07/15 07:58:53.423,C:\Users\Diogenes\Documents\blog masterdelphi\Threads\Unit1.pas=C:\Users\Diogenes\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/15 07:58:58.091,C:\Users\Diogenes\Documents\blog masterdelphi\Threads\Threads.dproj=C:\Users\Diogenes\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
